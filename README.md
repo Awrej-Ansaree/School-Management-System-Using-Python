@@ -29,7 +29,7 @@ This project was developed as a self-initiated effort after my Grade 8 examinati
 
 ## ⚙️ Installation & Usage
 1. Clone the repository: 
-   `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+   `git clone https://github.com/Awrej-Ansaree/School-Management-System-Using-Python.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the application:

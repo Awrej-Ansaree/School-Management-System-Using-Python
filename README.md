@@ -11,10 +11,10 @@ This project was developed as a self-initiated effort after my Grade 8 examinati
 * **Secure Database:** Managed data storage for grades, fees, and personal details.
 
 ## 🛠 Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.7.4
 * **GUI Framework:** Tkinter
 * **Computer Vision:** OpenCV, Face_Recognition
-* **Database:** [Mention your database here, e.g., SQLite / MySQL / CSV]
+* **Database:** SQLite
 * **Others:** NumPy, Pillow (PIL)
 
 ## 📸 Screenshots
